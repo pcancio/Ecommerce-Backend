@@ -18,7 +18,12 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
 ## Images
-
+Get All Products
+<img src ="images/get all products.jpg">
+Get Product by Id
+<img src ="images/get product by id.jpg">
+Create New Tag
+<img src = "images/post tag.jpg">
 ## Links
 Repo:
 Walkthrough video:
