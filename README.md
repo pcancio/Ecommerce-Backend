@@ -25,6 +25,8 @@ Get Product by Id
 Create New Tag
 <img src = "images/post tag.jpg">
 ## Links
-Repo:
-Walkthrough video:
+<a href ="https://github.com/pcancio/Ecommerce-Backend">Repo</a>
+<br>
+<a href ="https://watch.screencastify.com/v/sWKXbswAlgyQ9gsHWVUp">Walkthrough video</a>
+
 
